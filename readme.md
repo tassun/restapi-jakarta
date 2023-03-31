@@ -2,11 +2,13 @@
 
 REST API With Jersey
 
-## Install & Run
+## Install
 
 	git clone https://github.com/tassun/restapi-jakarta.git
 	
-	cd restapi
+### Compile & Run
+	
+	cd restapi-jakarta
 	mvn compile
 	mvn exec:java
 	
